@@ -1,5 +1,7 @@
 ## golang error code
 
+![Go](https://github.com/go-normal/code/workflows/Go/badge.svg)
+
 ### 1.usage
 
 #### defined error code
